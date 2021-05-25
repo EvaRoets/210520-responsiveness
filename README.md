@@ -1,1 +1,3 @@
-# 210520-responsiveness
+$ git rm readme.md
+$ git commit
+$ git push
