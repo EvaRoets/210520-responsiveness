@@ -1,4 +1,5 @@
 # Responsive Web Design 📱
+![reseponsiveness](https://user-images.githubusercontent.com/84382812/136956865-5e63b631-4628-4d53-bbc8-6925f9d6c7e1.PNG)
 
 ## Objectives
 - Learn about `CSS media queries`
@@ -6,7 +7,6 @@
 - DO NOT use any CSS framework
 
 ## Specifications
-
 ### 1. Change the color
 
 Create an HTML file and a CSS file. Make the background color of the body **red** when the width of the viewport is smaller than 480px, **green** when the viewport width is bigger than (or equal to) 480px and smaller than 1024px, and **blue** when the viewport is bigger than (or equal to) 1024px. If you want prettier colors, try https://colorhunt.co/ for inspiration.
@@ -24,7 +24,6 @@ In each div, add a title and a few paragraphs (lorem ipsum, and such). Give the 
 ### 4. Re-Arrange
 
 Make it so that :
-
 - if small, the 3 divs are stacked on top of one and other.
 - if medium, the first div takes 2/3 of width, the second 1/3 of width and the third the full width.
 - if big, the 3 divs should be next to one another.
